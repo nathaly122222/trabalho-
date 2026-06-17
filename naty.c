@@ -1,0 +1,13 @@
+using System;
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Olá, Mundo! Este é meu primeiro programa em C#.");
+            Console.WriteLine("Bem-vindo à Linguagem das Linguagens! 🚀");
+        }
+    }
+}
